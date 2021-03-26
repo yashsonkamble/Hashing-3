@@ -56,3 +56,15 @@ Explanation:
 David has 2 Rock, 2 Techno and 1 Jazz song. So he has 2 favorite genres.
 
 Emma has 2 Pop and 1 Dubstep song. Pop is Emma's favorite genre.
+
+public class Main {
+
+    public static Map<String, List<String>> favoritegenre(Map<String, List<String>> userMap, Map<String, List<String>> genreMap) {
+
+    }
+
+    public static void main(String[] args) {
+
+    }
+
+}
